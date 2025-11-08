@@ -1,5 +1,3 @@
-# restaurant-management-system
-Restaurant Management System using PHP &amp; MySQL
 # Restaurant Management System
 
 A web-based application developed using PHP and MySQL.
